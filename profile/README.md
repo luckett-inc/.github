@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#Luckett Inc.
+# Luckett Inc.
 
 <!--
 
